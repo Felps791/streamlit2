@@ -1,4 +1,4 @@
-import streamlit as tf
+import streamlit as st
 
-tf.write("Auba")
-tf.write("Hello World")
+st.write("Auba")
+st.write("Hello World")
